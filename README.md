@@ -1,5 +1,7 @@
 # AI Poet Generator
 
+[한국어 README](README.ko.md)
+
 AI Poet Generator is a small Streamlit web app that creates Korean poems from a user-provided topic. It uses OpenAI through LangChain, giving users a simple interface for turning a short subject into a generated poem.
 
 ## Project Type
